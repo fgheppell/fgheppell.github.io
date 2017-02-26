@@ -13,7 +13,7 @@
 }
 
 .bg-image{
-	background-image: url(/Users/freddyheppell/Desktop/Code_at_uni_2/piggy.png);
+	background-image: url(piggy.png);
 	background-size: cover;
 	padding-top: 200px;
 	padding-bottom: 200px;
